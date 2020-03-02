@@ -2,11 +2,11 @@
 This is where the description of the project should go. This should make clear why the repository exists.
 
 # Contents
-[Usage](#usage)
-[Getting Started](#getting-started)
-[Testing](#testing)
-[Deploying](#deploying)
-[Contributing](#testing)
+[Usage](#usage)  
+[Getting Started](#getting-started)  
+[Testing](#testing)  
+[Deploying](#deploying)  
+[Contributing](#testing)  
 
 # Usage (optional)
 This section should have usage instructions if this is a tool.
